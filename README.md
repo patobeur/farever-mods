@@ -170,7 +170,7 @@ function on_settings() end
 function on_shutdown() end
 ```
 
-Start with the [Lua API documentation](docs/LUA_API.md) and the existing modules in [`modules/`](modules/).
+Start with the [Lua API documentation](docs/LUA_API.md) and the existing modules in /modules/.
 
 ## Building from source
 
@@ -382,7 +382,7 @@ function on_settings() end
 function on_shutdown() end
 ```
 
-Commencez par consulter la documentation de l’[API Lua](docs/LUA_API.md) et les modules existants dans [`modules/`](modules/).
+Commencez par consulter la documentation de l’[API Lua](docs/LUA_API.md) et les modules existants dans /modules/.
 
 ## Compiler depuis les sources
 
